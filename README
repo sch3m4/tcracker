@@ -1,0 +1,9 @@
+Bash script to crack TrueCrypt volumes
+
+Requirements:
+=============
+TrueCrypt must be installed!
+
+Usage:
+======
+$ ./tcracker.sh /path/to/truecrypt/volume /path/to/dictionary
