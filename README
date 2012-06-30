@@ -1,4 +1,8 @@
+NOTE: This script is only a proof of concept, for better performance, use TrueCrack https://code.google.com/p/truecrack/
+
 Bash script to crack TrueCrypt volumes
+
+Spanish Post: http://safetybits.net/2009/12/20/crackeando-volumenes-de-truecrypt/
 
 Requirements:
 =============
@@ -7,3 +11,4 @@ TrueCrypt must be installed!
 Usage:
 ======
 $ ./tcracker.sh /path/to/truecrypt/volume /path/to/dictionary
+
